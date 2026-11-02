@@ -1,0 +1,22 @@
+SITE INSTITUCIONAL — 65.834.076 NEBRIDIO DYONATA MENEGHINI
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página Sobre
+- privacidade.html: Política de Privacidade
+- termos.html: Termos de Uso
+- style.css: estilos personalizados
+- imagens/: imagens fornecidas
+
+Como visualizar:
+Abra index.html no navegador. O Bootstrap e os ícones são carregados por CDN, portanto a conexão com a internet é necessária para esses recursos.
+
+Antes de publicar:
+1. Confirme que telefone e e-mail são canais oficiais e monitorados.
+2. Confirme que endereço e dados cadastrais estão corretos.
+3. Descreva apenas serviços realmente prestados e condições efetivamente oferecidas.
+4. Revise a política de privacidade conforme os formulários, cookies, analytics, pixels, hospedagem e demais ferramentas que forem efetivamente instalados.
+5. Não anuncie serviços, prazos, cobertura, rastreamento, seguro ou vínculo com os Correios sem comprovação.
+6. Verifique se o CNAE e a atividade real correspondem ao conteúdo anunciado.
+
+O site não afirma vínculo com os Correios. É um modelo institucional e não garante aprovação de anúncios pelo Google Ads.
